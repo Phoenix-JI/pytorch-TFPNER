@@ -8,7 +8,7 @@ In this work, we addressed the CoNLL-2003 and Groningen Meaning Bank (GMB) datas
 ## Model
 Here is the model we built to get the higher performance
 ### Token + POS
-![This is an image](https://github.com/Phoenix-JI/TFPNER/blob/main/Token%2BPOS.png)
+![This is an image](https://github.com/Phoenix-JI/TFPNER/blob/main/Token%2BPOS.png) ![This is an image](https://github.com/Phoenix-JI/TFPNER/blob/main/Token%2B%5BSEP%5D%2BPOS.png)
 ### Token + [SEP] +POS
 ![This is an image](https://github.com/Phoenix-JI/TFPNER/blob/main/Token%2B%5BSEP%5D%2BPOS.png)
 ### POS Embedding Layer
