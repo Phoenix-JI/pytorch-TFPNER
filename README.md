@@ -6,3 +6,14 @@ To further improve the performance of the NER task, we proposed the five methods
 In this work, we addressed the CoNLL-2003 and Groningen Meaning Bank (GMB) datasets which can provide both NER tags and POS tags. From our experiments on two datasets, part of the proposed methods can show performance improvement in comparison with the baseline methods.
 ### This is the project I worked with Haoqing Tang, the extraordinary computer scientist in CV & NLP area, during the interesting and memorable Postgraduate study period.
 ## Model
+Here is the model we built to get the higher performance
+### Token + POS
+![This is an image](https://github.com/Phoenix-JI/TFPNER/blob/main/Token%2BPOS.png)
+### Token + [SEP] +POS
+![This is an image](https://github.com/Phoenix-JI/TFPNER/blob/main/Token%2B%5BSEP%5D%2BPOS.png)
+### POS Embedding Layer
+![This is an image](https://github.com/Phoenix-JI/TFPNER/blob/main/POS%20Embedding%20Layer.png)
+### Token POS Attention
+![This is an image](https://github.com/Phoenix-JI/TFPNER/blob/main/Token%20POS%20Attention.png)
+### Model Ensemble
+![This is an image](https://github.com/Phoenix-JI/TFPNER/blob/main/Model%20Ensemble.png)
