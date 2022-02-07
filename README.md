@@ -17,3 +17,5 @@ Here is the model we built to get the higher performance
 ![This is an image](https://github.com/Phoenix-JI/TFPNER/blob/main/Token%20POS%20Attention.png)
 ### Model Ensemble
 ![This is an image](https://github.com/Phoenix-JI/TFPNER/blob/main/Model%20Ensemble.png)
+## Result
+![This is an image](https://github.com/Phoenix-JI/TFPNER/blob/main/Experimental%20Results%E2%80%93CoNLL-2003.png)
